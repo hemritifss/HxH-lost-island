@@ -1,0 +1,172 @@
+﻿  AssetManager.cpp
+  Bird.cpp
+  Collision.cpp
+  Flash.cpp
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\Flash.cpp(17,14): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\Flash.cpp(21,13): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\Flash.cpp(28,14): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\Flash.cpp(32,13): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+  Game.cpp
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\Game.cpp(10,13): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+  GameOverState.cpp
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\GameOverState.cpp(60,39): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\GameOverState.cpp(64,4): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\GameOverState.cpp(78,30): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\GameOverState.cpp(77,35): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\GameOverState.cpp(91,30): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\GameOverState.cpp(90,35): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+  GameState.cpp
+  HUD.cpp
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\HUD.cpp(18,30): warning C4244: 'argument' : conversion de 'T' en 'float', perte possible de données
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\HUD.cpp(18,30): warning C4244:         with
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\HUD.cpp(18,30): warning C4244:         [
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\HUD.cpp(18,30): warning C4244:             T=unsigned int
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\HUD.cpp(18,30): warning C4244:         ]
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\HUD.cpp(17,30): warning C4244: 'argument' : conversion de 'T' en 'float', perte possible de données
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\HUD.cpp(17,30): warning C4244:         with
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\HUD.cpp(17,30): warning C4244:         [
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\HUD.cpp(17,30): warning C4244:             T=unsigned int
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\HUD.cpp(17,30): warning C4244:         ]
+  InputManager.cpp
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\InputManager.cpp(13,29): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\InputManager.cpp(13,29): warning C4244:         with
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\InputManager.cpp(13,29): warning C4244:         [
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\InputManager.cpp(13,29): warning C4244:             T=float
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\InputManager.cpp(13,29): warning C4244:         ]
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\InputManager.cpp(13,29): warning C4244:         and
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\InputManager.cpp(13,29): warning C4244:         [
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\InputManager.cpp(13,29): warning C4244:             T=int
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\InputManager.cpp(13,29): warning C4244:         ]
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\InputManager.cpp(12,29): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\InputManager.cpp(12,29): warning C4244:         with
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\InputManager.cpp(12,29): warning C4244:         [
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\InputManager.cpp(12,29): warning C4244:             T=float
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\InputManager.cpp(12,29): warning C4244:         ]
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\InputManager.cpp(12,29): warning C4244:         and
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\InputManager.cpp(12,29): warning C4244:         [
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\InputManager.cpp(12,29): warning C4244:             T=int
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\InputManager.cpp(12,29): warning C4244:         ]
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\InputManager.cpp(11,25): warning C4244: 'argument' : conversion de 'const T' en 'T', perte possible de données
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\InputManager.cpp(11,25): warning C4244:         with
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\InputManager.cpp(11,25): warning C4244:         [
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\InputManager.cpp(11,25): warning C4244:             T=float
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\InputManager.cpp(11,25): warning C4244:         ]
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\InputManager.cpp(11,25): warning C4244:         and
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\InputManager.cpp(11,25): warning C4244:         [
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\InputManager.cpp(11,25): warning C4244:             T=int
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\InputManager.cpp(11,25): warning C4244:         ]
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\InputManager.cpp(10,25): warning C4244: 'argument' : conversion de 'const T' en 'T', perte possible de données
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\InputManager.cpp(10,25): warning C4244:         with
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\InputManager.cpp(10,25): warning C4244:         [
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\InputManager.cpp(10,25): warning C4244:             T=float
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\InputManager.cpp(10,25): warning C4244:         ]
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\InputManager.cpp(10,25): warning C4244:         and
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\InputManager.cpp(10,25): warning C4244:         [
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\InputManager.cpp(10,25): warning C4244:             T=int
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\InputManager.cpp(10,25): warning C4244:         ]
+  Land.cpp
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\Land.cpp(29,50): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\Land.cpp(29,50): warning C4244:         with
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\Land.cpp(29,50): warning C4244:         [
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\Land.cpp(29,50): warning C4244:             T=unsigned int
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\Land.cpp(29,50): warning C4244:         ]
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\Land.cpp(29,50): warning C4244:         and
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\Land.cpp(29,50): warning C4244:         [
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\Land.cpp(29,50): warning C4244:             T=float
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\Land.cpp(29,50): warning C4244:         ]
+  main.cpp
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\main.cpp(2,10): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+  MainMenuState.cpp
+  Pipe.cpp
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\Pipe.cpp(16,27): warning C4244: 'argument' : conversion de 'T' en 'float', perte possible de données
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\Pipe.cpp(16,27): warning C4244:         with
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\Pipe.cpp(16,27): warning C4244:         [
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\Pipe.cpp(16,27): warning C4244:             T=unsigned int
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\Pipe.cpp(16,27): warning C4244:         ]
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\Pipe.cpp(26,49): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\Pipe.cpp(26,45): warning C4244: 'argument' : conversion de 'T' en 'float', perte possible de données
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\Pipe.cpp(26,45): warning C4244:         with
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\Pipe.cpp(26,45): warning C4244:         [
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\Pipe.cpp(26,45): warning C4244:             T=unsigned int
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\Pipe.cpp(26,45): warning C4244:         ]
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\Pipe.cpp(35,27): warning C4244: 'argument' : conversion de 'T' en 'float', perte possible de données
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\Pipe.cpp(35,27): warning C4244:         with
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\Pipe.cpp(35,27): warning C4244:         [
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\Pipe.cpp(35,27): warning C4244:             T=unsigned int
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\Pipe.cpp(35,27): warning C4244:         ]
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\Pipe.cpp(46,45): warning C4244: 'argument' : conversion de 'T' en 'float', perte possible de données
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\Pipe.cpp(46,45): warning C4244:         with
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\Pipe.cpp(46,45): warning C4244:         [
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\Pipe.cpp(46,45): warning C4244:             T=unsigned int
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\Pipe.cpp(46,45): warning C4244:         ]
+  SplashState.cpp
+  StateMachine.cpp
+AssetManager.obj : error LNK2001: symbole externe non résolu "__declspec(dllimport) public: class sf::Texture & __thiscall sf::Texture::operator=(class sf::Texture const &)" (__imp_??4Texture@sf@@QAEAAV01@ABV01@@Z)
+AssetManager.obj : error LNK2001: symbole externe non résolu "__declspec(dllimport) public: bool __thiscall sf::Texture::loadFromFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class sf::Rect<int> const &)" (__imp_?loadFromFile@Texture@sf@@QAE_NABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@ABV?$Rect@H@2@@Z)
+AssetManager.obj : error LNK2001: symbole externe non résolu "__declspec(dllimport) public: __thiscall sf::Texture::~Texture(void)" (__imp_??1Texture@sf@@QAE@XZ)
+AssetManager.obj : error LNK2001: symbole externe non résolu "__declspec(dllimport) public: __thiscall sf::Texture::Texture(void)" (__imp_??0Texture@sf@@QAE@XZ)
+AssetManager.obj : error LNK2001: symbole externe non résolu "__declspec(dllimport) public: class sf::Font & __thiscall sf::Font::operator=(class sf::Font const &)" (__imp_??4Font@sf@@QAEAAV01@ABV01@@Z)
+AssetManager.obj : error LNK2001: symbole externe non résolu "__declspec(dllimport) public: bool __thiscall sf::Font::loadFromFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (__imp_?loadFromFile@Font@sf@@QAE_NABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+AssetManager.obj : error LNK2001: symbole externe non résolu "__declspec(dllimport) public: __thiscall sf::Font::~Font(void)" (__imp_??1Font@sf@@QAE@XZ)
+AssetManager.obj : error LNK2001: symbole externe non résolu "__declspec(dllimport) public: __thiscall sf::Font::Font(void)" (__imp_??0Font@sf@@QAE@XZ)
+Bird.obj : error LNK2001: symbole externe non résolu "__declspec(dllimport) public: static class sf::RenderStates const sf::RenderStates::Default" (__imp_?Default@RenderStates@sf@@2V12@B)
+Bird.obj : error LNK2001: symbole externe non résolu "__declspec(dllimport) public: class sf::Time __thiscall sf::Clock::restart(void)" (__imp_?restart@Clock@sf@@QAE?AVTime@2@XZ)
+Bird.obj : error LNK2001: symbole externe non résolu "__declspec(dllimport) public: class sf::Time __thiscall sf::Clock::getElapsedTime(void)const " (__imp_?getElapsedTime@Clock@sf@@QBE?AVTime@2@XZ)
+Bird.obj : error LNK2001: symbole externe non résolu "__declspec(dllimport) public: __thiscall sf::Clock::Clock(void)" (__imp_??0Clock@sf@@QAE@XZ)
+Bird.obj : error LNK2001: symbole externe non résolu "__declspec(dllimport) public: float __thiscall sf::Time::asSeconds(void)const " (__imp_?asSeconds@Time@sf@@QBEMXZ)
+Bird.obj : error LNK2001: symbole externe non résolu "__declspec(dllimport) public: void __thiscall sf::Transformable::move(float,float)" (__imp_?move@Transformable@sf@@QAEXMM@Z)
+Bird.obj : error LNK2001: symbole externe non résolu "__declspec(dllimport) public: void __thiscall sf::Transformable::setOrigin(class sf::Vector2<float> const &)" (__imp_?setOrigin@Transformable@sf@@QAEXABV?$Vector2@M@2@@Z)
+Bird.obj : error LNK2001: symbole externe non résolu "__declspec(dllimport) public: void __thiscall sf::Transformable::setRotation(float)" (__imp_?setRotation@Transformable@sf@@QAEXM@Z)
+Bird.obj : error LNK2001: symbole externe non résolu "__declspec(dllimport) public: void __thiscall sf::Transformable::setPosition(float,float)" (__imp_?setPosition@Transformable@sf@@QAEXMM@Z)
+Bird.obj : error LNK2001: symbole externe non résolu "__declspec(dllimport) public: __thiscall sf::Texture::Texture(class sf::Texture const &)" (__imp_??0Texture@sf@@QAE@ABV01@@Z)
+Bird.obj : error LNK2001: symbole externe non résolu "__declspec(dllimport) public: void __thiscall sf::RenderTarget::draw(class sf::Drawable const &,class sf::RenderStates const &)" (__imp_?draw@RenderTarget@sf@@QAEXABVDrawable@2@ABVRenderStates@2@@Z)
+Bird.obj : error LNK2001: symbole externe non résolu "__declspec(dllimport) public: class sf::Rect<float> __thiscall sf::Sprite::getGlobalBounds(void)const " (__imp_?getGlobalBounds@Sprite@sf@@QBE?AV?$Rect@M@2@XZ)
+Bird.obj : error LNK2001: symbole externe non résolu "__declspec(dllimport) public: void __thiscall sf::Sprite::setTexture(class sf::Texture const &,bool)" (__imp_?setTexture@Sprite@sf@@QAEXABVTexture@2@_N@Z)
+Bird.obj : error LNK2001: symbole externe non résolu "__declspec(dllimport) public: __thiscall sf::Sprite::Sprite(void)" (__imp_??0Sprite@sf@@QAE@XZ)
+Bird.obj : error LNK2001: symbole externe non résolu "__declspec(dllimport) public: virtual __thiscall sf::Sprite::~Sprite(void)" (__imp_??1Sprite@sf@@UAE@XZ)
+Collision.obj : error LNK2001: symbole externe non résolu "__declspec(dllimport) public: void __thiscall sf::Transformable::setScale(float,float)" (__imp_?setScale@Transformable@sf@@QAEXMM@Z)
+Flash.obj : error LNK2001: symbole externe non résolu "__declspec(dllimport) public: __thiscall sf::Color::Color(unsigned char,unsigned char,unsigned char,unsigned char)" (__imp_??0Color@sf@@QAE@EEEE@Z)
+Flash.obj : error LNK2001: symbole externe non résolu "__declspec(dllimport) public: class sf::Color const & __thiscall sf::Shape::getFillColor(void)const " (__imp_?getFillColor@Shape@sf@@QBEABVColor@2@XZ)
+Flash.obj : error LNK2001: symbole externe non résolu "__declspec(dllimport) public: void __thiscall sf::Shape::setFillColor(class sf::Color const &)" (__imp_?setFillColor@Shape@sf@@QAEXABVColor@2@@Z)
+Flash.obj : error LNK2001: symbole externe non résolu "__declspec(dllimport) public: __thiscall sf::RectangleShape::RectangleShape(class sf::Vector2<float> const &)" (__imp_??0RectangleShape@sf@@QAE@ABV?$Vector2@M@1@@Z)
+Flash.obj : error LNK2001: symbole externe non résolu "__declspec(dllimport) public: class sf::RectangleShape & __thiscall sf::RectangleShape::operator=(class sf::RectangleShape &&)" (__imp_??4RectangleShape@sf@@QAEAAV01@$$QAV01@@Z)
+Flash.obj : error LNK2001: symbole externe non résolu "__declspec(dllimport) public: virtual __thiscall sf::RectangleShape::~RectangleShape(void)" (__imp_??1RectangleShape@sf@@UAE@XZ)
+Game.obj : error LNK2001: symbole externe non résolu "__declspec(dllimport) public: virtual __thiscall sf::RenderWindow::~RenderWindow(void)" (__imp_??1RenderWindow@sf@@UAE@XZ)
+Game.obj : error LNK2001: symbole externe non résolu "__declspec(dllimport) public: __thiscall sf::RenderWindow::RenderWindow(void)" (__imp_??0RenderWindow@sf@@QAE@XZ)
+Game.obj : error LNK2001: symbole externe non résolu "__declspec(dllimport) public: bool __thiscall sf::WindowBase::isOpen(void)const " (__imp_?isOpen@WindowBase@sf@@QBE_NXZ)
+Game.obj : error LNK2001: symbole externe non résolu "__declspec(dllimport) public: __thiscall sf::String::String(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class std::locale const &)" (__imp_??0String@sf@@QAE@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@ABVlocale@3@@Z)
+Game.obj : error LNK2001: symbole externe non résolu "__declspec(dllimport) public: __thiscall sf::VideoMode::VideoMode(unsigned int,unsigned int,unsigned int)" (__imp_??0VideoMode@sf@@QAE@III@Z)
+Game.obj : error LNK2001: symbole externe non résolu "__declspec(dllimport) public: __thiscall sf::String::~String(void)" (__imp_??1String@sf@@QAE@XZ)
+GameOverState.obj : error LNK2001: symbole externe non résolu "__declspec(dllimport) public: static class sf::Color const sf::Color::White" (__imp_?White@Color@sf@@2V12@B)
+GameOverState.obj : error LNK2001: symbole externe non résolu "__declspec(dllimport) public: class sf::Vector2<float> const & __thiscall sf::Transformable::getPosition(void)const " (__imp_?getPosition@Transformable@sf@@QBEABV?$Vector2@M@2@XZ)
+GameOverState.obj : error LNK2001: symbole externe non résolu "__declspec(dllimport) public: void __thiscall sf::Transformable::setOrigin(float,float)" (__imp_?setOrigin@Transformable@sf@@QAEXMM@Z)
+GameOverState.obj : error LNK2001: symbole externe non résolu "__declspec(dllimport) public: void __thiscall sf::Window::display(void)" (__imp_?display@Window@sf@@QAEXXZ)
+GameOverState.obj : error LNK2001: symbole externe non résolu "__declspec(dllimport) public: bool __thiscall sf::WindowBase::pollEvent(class sf::Event &)" (__imp_?pollEvent@WindowBase@sf@@QAE_NAAVEvent@2@@Z)
+GameOverState.obj : error LNK2001: symbole externe non résolu "__declspec(dllimport) public: void __thiscall sf::RenderTarget::clear(class sf::Color const &)" (__imp_?clear@RenderTarget@sf@@QAEXABVColor@2@@Z)
+    Conseil sur les symboles définis et susceptibles de correspondre :
+      "__declspec(dllimport) public: void __thiscall std::basic_ios<char,struct std::char_traits<char> >::clear(int,bool)" (__imp_?clear@?$basic_ios@DU?$char_traits@D@std@@@std@@QAEXH_N@Z)
+GameOverState.obj : error LNK2001: symbole externe non résolu "__declspec(dllimport) public: class sf::Rect<float> __thiscall sf::Text::getGlobalBounds(void)const " (__imp_?getGlobalBounds@Text@sf@@QBE?AV?$Rect@M@2@XZ)
+GameOverState.obj : error LNK2001: symbole externe non résolu "__declspec(dllimport) public: void __thiscall sf::Text::setFillColor(class sf::Color const &)" (__imp_?setFillColor@Text@sf@@QAEXABVColor@2@@Z)
+GameOverState.obj : error LNK2001: symbole externe non résolu "__declspec(dllimport) public: void __thiscall sf::Text::setCharacterSize(unsigned int)" (__imp_?setCharacterSize@Text@sf@@QAEXI@Z)
+GameOverState.obj : error LNK2001: symbole externe non résolu "__declspec(dllimport) public: void __thiscall sf::Text::setFont(class sf::Font const &)" (__imp_?setFont@Text@sf@@QAEXABVFont@2@@Z)
+GameOverState.obj : error LNK2001: symbole externe non résolu "__declspec(dllimport) public: void __thiscall sf::Text::setString(class sf::String const &)" (__imp_?setString@Text@sf@@QAEXABVString@2@@Z)
+GameOverState.obj : error LNK2001: symbole externe non résolu "__declspec(dllimport) public: __thiscall sf::Text::Text(void)" (__imp_??0Text@sf@@QAE@XZ)
+GameOverState.obj : error LNK2001: symbole externe non résolu "__declspec(dllimport) public: __thiscall sf::Sprite::Sprite(class sf::Sprite const &)" (__imp_??0Sprite@sf@@QAE@ABV01@@Z)
+GameOverState.obj : error LNK2001: symbole externe non résolu "__declspec(dllimport) public: virtual __thiscall sf::Text::~Text(void)" (__imp_??1Text@sf@@UAE@XZ)
+GameState.obj : error LNK2001: symbole externe non résolu "__declspec(dllimport) public: bool __thiscall sf::SoundBuffer::loadFromFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (__imp_?loadFromFile@SoundBuffer@sf@@QAE_NABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+GameState.obj : error LNK2001: symbole externe non résolu "__declspec(dllimport) public: __thiscall sf::SoundBuffer::~SoundBuffer(void)" (__imp_??1SoundBuffer@sf@@QAE@XZ)
+GameState.obj : error LNK2001: symbole externe non résolu "__declspec(dllimport) public: __thiscall sf::SoundBuffer::SoundBuffer(void)" (__imp_??0SoundBuffer@sf@@QAE@XZ)
+GameState.obj : error LNK2001: symbole externe non résolu "__declspec(dllimport) public: void __thiscall sf::Sound::setBuffer(class sf::SoundBuffer const &)" (__imp_?setBuffer@Sound@sf@@QAEXABVSoundBuffer@2@@Z)
+GameState.obj : error LNK2001: symbole externe non résolu "__declspec(dllimport) public: virtual __thiscall sf::Sound::~Sound(void)" (__imp_??1Sound@sf@@UAE@XZ)
+GameState.obj : error LNK2001: symbole externe non résolu "__declspec(dllimport) public: __thiscall sf::Sound::Sound(void)" (__imp_??0Sound@sf@@QAE@XZ)
+GameState.obj : error LNK2001: symbole externe non résolu "__declspec(dllimport) private: virtual void __thiscall sf::Sprite::draw(class sf::RenderTarget &,class sf::RenderStates)const " (__imp_?draw@Sprite@sf@@EBEXAAVRenderTarget@2@VRenderStates@2@@Z)
+GameState.obj : error LNK2001: symbole externe non résolu "__declspec(dllimport) public: class sf::Sprite & __thiscall sf::Sprite::operator=(class sf::Sprite &&)" (__imp_??4Sprite@sf@@QAEAAV01@$$QAV01@@Z)
+HUD.obj : error LNK2001: symbole externe non résolu "__declspec(dllimport) public: __thiscall sf::String::String(char const *,class std::locale const &)" (__imp_??0String@sf@@QAE@PBDABVlocale@std@@@Z)
+InputManager.obj : error LNK2001: symbole externe non résolu "__declspec(dllimport) public: static class sf::Vector2<int> __cdecl sf::Mouse::getPosition(class sf::WindowBase const &)" (__imp_?getPosition@Mouse@sf@@SA?AV?$Vector2@H@2@ABVWindowBase@2@@Z)
+InputManager.obj : error LNK2001: symbole externe non résolu "__declspec(dllimport) public: static bool __cdecl sf::Mouse::isButtonPressed(enum sf::Mouse::Button)" (__imp_?isButtonPressed@Mouse@sf@@SA_NW4Button@12@@Z)
+Land.obj : error LNK2001: symbole externe non résolu "__declspec(dllimport) public: void __thiscall sf::Transformable::setPosition(class sf::Vector2<float> const &)" (__imp_?setPosition@Transformable@sf@@QAEXABV?$Vector2@M@2@@Z)
+Land.obj : error LNK2001: symbole externe non résolu "__declspec(dllimport) public: __thiscall sf::Sprite::Sprite(class sf::Texture const &)" (__imp_??0Sprite@sf@@QAE@ABVTexture@1@@Z)
+Land.obj : error LNK2001: symbole externe non résolu "__declspec(dllimport) public: __thiscall sf::Sprite::Sprite(class sf::Sprite &&)" (__imp_??0Sprite@sf@@QAE@$$QAV01@@Z)
+Pipe.obj : error LNK2001: symbole externe non résolu "__declspec(dllimport) public: class sf::Vector2<unsigned int> __thiscall sf::Texture::getSize(void)const " (__imp_?getSize@Texture@sf@@QBE?AV?$Vector2@I@2@XZ)
+Pipe.obj : error LNK2001: symbole externe non résolu "__declspec(dllimport) public: void __thiscall sf::Sprite::setColor(class sf::Color const &)" (__imp_?setColor@Sprite@sf@@QAEXABVColor@2@@Z)
+C:\Users\helpc\Desktop\c++\gmp2\Release\gmp2.exe : fatal error LNK1120: 66 externes non résolus

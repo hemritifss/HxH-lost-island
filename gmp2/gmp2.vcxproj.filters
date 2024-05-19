@@ -1,0 +1,208 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Fichiers sources">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Fichiers de ressources">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="resources\highscore.txt">
+      <Filter>Fichiers de ressources</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="resources\audio\Hit.wav">
+      <Filter>Fichiers de ressources</Filter>
+    </Media>
+    <Media Include="resources\audio\Point.wav">
+      <Filter>Fichiers de ressources</Filter>
+    </Media>
+    <Media Include="resources\audio\Wing.wav">
+      <Filter>Fichiers de ressources</Filter>
+    </Media>
+  </ItemGroup>
+  <ItemGroup>
+    <Font Include="resources\fonts\arial.ttf">
+      <Filter>Fichiers de ressources</Filter>
+    </Font>
+    <Font Include="resources\fonts\FlappyFont.ttf">
+      <Filter>Fichiers de ressources</Filter>
+    </Font>
+    <Font Include="resources\fonts\Marker Felt.ttf">
+      <Filter>Fichiers de ressources</Filter>
+    </Font>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="resources\res\.gitkeep">
+      <Filter>Fichiers de ressources</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="resources\res\bird-01.png">
+      <Filter>Fichiers de ressources</Filter>
+    </Image>
+    <Image Include="resources\res\bird-02.png">
+      <Filter>Fichiers de ressources</Filter>
+    </Image>
+    <Image Include="resources\res\bird-03.png">
+      <Filter>Fichiers de ressources</Filter>
+    </Image>
+    <Image Include="resources\res\bird-04.png">
+      <Filter>Fichiers de ressources</Filter>
+    </Image>
+    <Image Include="resources\res\Bronze-Medal.png">
+      <Filter>Fichiers de ressources</Filter>
+    </Image>
+    <Image Include="resources\res\Game-Over-Body.png">
+      <Filter>Fichiers de ressources</Filter>
+    </Image>
+    <Image Include="resources\res\Game-Over-Title.png">
+      <Filter>Fichiers de ressources</Filter>
+    </Image>
+    <Image Include="resources\res\Gold-Medal.png">
+      <Filter>Fichiers de ressources</Filter>
+    </Image>
+    <Image Include="resources\res\InvisibleScoringPipe.png">
+      <Filter>Fichiers de ressources</Filter>
+    </Image>
+    <Image Include="resources\res\land.png">
+      <Filter>Fichiers de ressources</Filter>
+    </Image>
+    <Image Include="resources\res\PipeDown.png">
+      <Filter>Fichiers de ressources</Filter>
+    </Image>
+    <Image Include="resources\res\PipeUp.png">
+      <Filter>Fichiers de ressources</Filter>
+    </Image>
+    <Image Include="resources\res\Platinum-Medal.png">
+      <Filter>Fichiers de ressources</Filter>
+    </Image>
+    <Image Include="resources\res\PlayButton.png">
+      <Filter>Fichiers de ressources</Filter>
+    </Image>
+    <Image Include="resources\res\Silver-Medal.png">
+      <Filter>Fichiers de ressources</Filter>
+    </Image>
+    <Image Include="resources\res\sky.png">
+      <Filter>Fichiers de ressources</Filter>
+    </Image>
+    <Image Include="resources\res\Splash-Background.png">
+      <Filter>Fichiers de ressources</Filter>
+    </Image>
+    <Image Include="resources\res\title.png">
+      <Filter>Fichiers de ressources</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Blink.hpp">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="Collider.hpp">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="CONSTS.hpp">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="EndGameState.hpp">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine.hpp">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="EventManager.hpp">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="Ground.hpp">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="IntroState.hpp">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="Obstacles.hpp">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.hpp">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayState.hpp">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="ResourceManager.hpp">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="ScoreDisplay.hpp">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="Stage.hpp">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="StartMenuState.hpp">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="StateController.hpp">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy.hpp">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Blink.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Collider.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="EndGameState.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Engine.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="EventManager.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Ground.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="IntroState.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Obstacles.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayState.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="ResourceManager.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="ScoreDisplay.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="StartMenuState.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="StateController.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemy.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

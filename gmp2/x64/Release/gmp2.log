@@ -1,0 +1,63 @@
+﻿  Blink.cpp
+  Collider.cpp
+  EndGameState.cpp
+  Enemy.cpp
+  Engine.cpp
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\Enemy.cpp(15,20): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\Enemy.cpp(14,36): warning C4244: 'argument' : conversion de 'T' en 'float', perte possible de données
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\Enemy.cpp(14,36): warning C4244:         with
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\Enemy.cpp(14,36): warning C4244:         [
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\Enemy.cpp(14,36): warning C4244:             T=unsigned int
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\Enemy.cpp(14,36): warning C4244:         ]
+  EventManager.cpp
+  Ground.cpp
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\Ground.cpp(26,59): warning C4244: 'argument' : conversion de 'T' en 'float', perte possible de données
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\Ground.cpp(26,59): warning C4244:         with
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\Ground.cpp(26,59): warning C4244:         [
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\Ground.cpp(26,59): warning C4244:             T=unsigned int
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\Ground.cpp(26,59): warning C4244:         ]
+  IntroState.cpp
+  main.cpp
+  Obstacles.cpp
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\Obstacles.cpp(16,36): warning C4244: 'argument' : conversion de 'T' en 'float', perte possible de données
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\Obstacles.cpp(16,36): warning C4244:         with
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\Obstacles.cpp(16,36): warning C4244:         [
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\Obstacles.cpp(16,36): warning C4244:             T=unsigned int
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\Obstacles.cpp(16,36): warning C4244:         ]
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\Obstacles.cpp(25,55): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\Obstacles.cpp(25,51): warning C4244: 'argument' : conversion de 'T' en 'float', perte possible de données
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\Obstacles.cpp(25,51): warning C4244:         with
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\Obstacles.cpp(25,51): warning C4244:         [
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\Obstacles.cpp(25,51): warning C4244:             T=unsigned int
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\Obstacles.cpp(25,51): warning C4244:         ]
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\Obstacles.cpp(33,36): warning C4244: 'argument' : conversion de 'T' en 'float', perte possible de données
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\Obstacles.cpp(33,36): warning C4244:         with
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\Obstacles.cpp(33,36): warning C4244:         [
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\Obstacles.cpp(33,36): warning C4244:             T=unsigned int
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\Obstacles.cpp(33,36): warning C4244:         ]
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\Obstacles.cpp(43,51): warning C4244: 'argument' : conversion de 'T' en 'float', perte possible de données
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\Obstacles.cpp(43,51): warning C4244:         with
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\Obstacles.cpp(43,51): warning C4244:         [
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\Obstacles.cpp(43,51): warning C4244:             T=unsigned int
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\Obstacles.cpp(43,51): warning C4244:         ]
+  Player.cpp
+  PlayState.cpp
+  ResourceManager.cpp
+  ScoreDisplay.cpp
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\ScoreDisplay.cpp(22,39): warning C4244: 'argument' : conversion de 'T' en 'float', perte possible de données
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\ScoreDisplay.cpp(22,39): warning C4244:         with
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\ScoreDisplay.cpp(22,39): warning C4244:         [
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\ScoreDisplay.cpp(22,39): warning C4244:             T=unsigned int
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\ScoreDisplay.cpp(22,39): warning C4244:         ]
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\ScoreDisplay.cpp(21,39): warning C4244: 'argument' : conversion de 'T' en 'float', perte possible de données
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\ScoreDisplay.cpp(21,39): warning C4244:         with
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\ScoreDisplay.cpp(21,39): warning C4244:         [
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\ScoreDisplay.cpp(21,39): warning C4244:             T=unsigned int
+C:\Users\helpc\Desktop\c++\gmp2\gmp2\ScoreDisplay.cpp(21,39): warning C4244:         ]
+  StartMenuState.cpp
+  StateController.cpp
+  Génération de code en cours
+  Previous IPDB not found, fall back to full compilation.
+  All 845 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Fin de la génération du code
+  gmp2.vcxproj -> C:\Users\helpc\Desktop\c++\gmp2\x64\Release\gmp2.exe
