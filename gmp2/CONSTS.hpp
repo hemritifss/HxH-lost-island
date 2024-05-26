@@ -37,8 +37,8 @@
 #define FLAP_SOUND_PATH "resources/audio/Wing.wav"
 
 // Gameplay constants
-#define ENEMY_SPAWN_FREQUENCY 7.0f
-#define BULLET_SPEED 500.0f
+#define ENEMY_SPAWN_FREQUENCY 4.0f
+#define BULLET_SPEED 300.0f
 #define SHOOT_INTERVAL 2.0f
 #define OBSTACLE_SPEED 200.0f
 #define OBSTACLE_SPAWN_FREQUENCY 3.0f
